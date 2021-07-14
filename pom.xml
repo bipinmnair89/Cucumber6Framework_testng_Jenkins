@@ -105,7 +105,7 @@
                 <version>${maven.surefire.version}</version>
                 <configuration>
                     <includes>
-                        <include>**/RunnerForJenkins.java</include>
+                        <include>**/JenkinsSimpleRunner.java</include>
                     </includes>
 <!--                    <parallel>methods</parallel>-->
 <!--                    <threadCount>4</threadCount>-->

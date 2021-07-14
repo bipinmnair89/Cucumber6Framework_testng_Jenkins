@@ -1,6 +1,6 @@
 Feature: Login page feature
 
-  @login
+  @login @JenkinsShort
   Scenario: Verify forgot password page
     Given User is able to load the application
     And User lands in the application landing page having title "GspTechnologies Opencart Demo Store"
